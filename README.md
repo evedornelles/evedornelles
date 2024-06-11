@@ -1,6 +1,15 @@
 
-## Hellooo Word!! Eu sou a Évelim Dornelles, estudante de Ciência da Computação e apaixonada por front-end. 
+## Oii!! Eu sou a Évelim Dornelles, estudante de Ciência da Computação e apaixonada por front-end. 
 
+<div> 
+
+  <a href="https://www.instagram.com/eve.dornelles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+##
+Tecnologias que eu utilizo
 <div style="display: inline_block"><br>
   <img align="center" alt="Eve-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Eve-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -12,12 +21,8 @@
 
 ##
 
-<div> 
+![Eve GitHub stats](https://github-readme-stats.vercel.app/api?username=evedc&show_icons=true&theme=radical)
 
-  <a href="https://www.instagram.com/eve.dornelles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/evedc/evedc/output/github-contribution-grid-snake-dark.svg">
