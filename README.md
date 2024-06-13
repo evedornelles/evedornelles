@@ -1,5 +1,5 @@
 
-## Oi! Eu sou a Évelim Dornelles!
+## Oi! Eu sou a Évelim Dornelles! 🖖🏻
 Desde muito nova, lá nos bons tempos bons, eu já adorava mexer com HTML e estilizar sites. Mesmo ao longo dos anos, nas diversas áreas em que atuei, meu interesse por códigos nunca sumiu. Hoje, estou cursando Bacharelado em Ciência da Computação e me aprofundando cada vez mais no desenvolvimento Front-End.
 Além disso, fiz um curso de Desenvolvedora FullStack para dar uma turbinada nas minhas habilidades. Ainda sou novata na área de tecnologia, mas estou sempre correndo atrás, fazendo cursos, participando de bootcamps e criando projetos por conta própria para melhorar minhas habilidades.
 
