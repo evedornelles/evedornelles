@@ -2,7 +2,7 @@
 ## Oi! Eu sou a Évelim Dornelles! 🖖🏻
 Desde muito nova eu já adorava mexer com HTML e estilizar sites. Mesmo ao longo dos anos, nas diversas áreas em que atuei, meu interesse por códigos nunca sumiu. Hoje, estou cursando Bacharelado em Ciência da Computação e me aprofundando cada vez mais no desenvolvimento Front-End.
 Além disso, fiz um curso de Desenvolvedora FullStack para dar uma turbinada nas minhas habilidades. Ainda sou novata na área de tecnologia, mas estou sempre correndo atrás, fazendo cursos, participando de bootcamps e criando projetos por conta própria para melhorar minhas habilidades.
-
+<div style="display: inline_block"><br>
 <div> 
 
   <a href="https://www.instagram.com/eve.dornelles" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -35,7 +35,5 @@ Além disso, fiz um curso de Desenvolvedora FullStack para dar uma turbinada nas
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/evedc/evedc/output/github-contribution-grid-snake-dark.svg">
 
   
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/evedc/evedc/output/github-contribution-grid-snake.svg">
-</picture>
 
 
