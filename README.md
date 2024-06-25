@@ -1,7 +1,8 @@
 
 ## Oi! Eu sou a Évelim Dornelles! 🖖🏻
-Desde muito nova eu já adorava mexer com HTML e estilizar sites. Mesmo ao longo dos anos, nas diversas áreas em que atuei, meu interesse por códigos nunca sumiu. Hoje, estou cursando Bacharelado em Ciência da Computação e me aprofundando cada vez mais no desenvolvimento Front-End.
-Além disso, fiz um curso de Desenvolvedora FullStack para dar uma turbinada nas minhas habilidades. Ainda sou novata na área de tecnologia, mas estou sempre correndo atrás, fazendo cursos, participando de bootcamps e criando projetos por conta própria para melhorar minhas habilidades.
+Em 2015, embarquei na aventura de estudar Turismo na Universidade Federal de Pelotas e me formei em 2019. Não atuei na minha aréa de formação, busquei novas oportunidades no mercado financeiro, tanto na parte de análise técnica quanto na codificação de estratégias. Como sempre tive interesse e curiosidade pela área da tecnologia, decidi me jogar de cabeça de um modo mais profissional, começando o curso de Ciência da Computação. Com muito fascínio na aréa de desenvolvimento web, também fiz um curso FullStack.
+Sou nova no mercado de tecnologia, porém busco sempre realizar cursos complementares, participar de bootcamps e implementar projetos sozinha para desenvolver minhas habilidades. Busco novas oportunidades de carreira para demonstrar minhas habilidades e me desenvolver profissionalmente.
+
 <div style="display: inline_block"><br>
 <div> 
 
