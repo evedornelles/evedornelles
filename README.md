@@ -1,5 +1,6 @@
-
-## Oi! Eu sou a Évelim Dornelles! 🖖🏻
+ 
+# Oi! Eu sou a Évelim Dornelles! 🖖🏻
+<div align="center"> 
 Em 2015, embarquei na aventura de estudar Turismo na Universidade Federal de Pelotas e me formei em 2019. Não atuei na minha aréa de formação, busquei novas oportunidades no mercado financeiro, tanto na parte de análise técnica quanto na codificação de estratégias. Como sempre tive interesse e curiosidade pela área da tecnologia, decidi me jogar de cabeça de um modo mais profissional, começando o curso de Ciência da Computação. Com muito fascínio na aréa de desenvolvimento web, também fiz um curso FullStack.
 Sou nova no mercado de tecnologia, porém busco sempre realizar cursos complementares, participar de bootcamps e implementar projetos sozinha para desenvolver minhas habilidades. Busco novas oportunidades de carreira para demonstrar minhas habilidades e me desenvolver profissionalmente.
 
@@ -28,6 +29,7 @@ Sou nova no mercado de tecnologia, porém busco sempre realizar cursos complemen
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=evedc&show_icons=true&count_private=true&hide_border=true&title_color=8BC3F5&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evedc&layout=compact&hide_border=true&title_color=8BC3F5&text_color=00bfbf&bg_color=0d1117" />
+</div>
 </div>
 
 #
