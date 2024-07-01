@@ -21,8 +21,6 @@ Sou nova no mercado de tecnologia, porém busco sempre realizar cursos complemen
    <img align="center" alt="Eve-BS" src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
 
            
-  <img align="right" alt="eve-yodap" src="https://media.tenor.com/4P02Cdfd26MAAAAi/baby-yoda-so-cute.gif">
-
 </div>
 
 # 
