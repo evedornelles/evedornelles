@@ -1,18 +1,15 @@
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=68D2E8&width=435&lines=Ol%C3%A1!+Eu+sou+a+%C3%89velim+Dornelles+%F0%9F%92%9C)](https://git.io/typing-svg)
  
-# Oi! Eu sou a Évelim Dornelles! 🖖🏻
+ Turismóloga formada pela Universidade Federal de Pelotas - UFPel e atualmente estudante do curso de Ciência da Computação. Apaixonada por tecnologia e inovação, procuro sempre expandir meu conhecimento.
 
-Em 2015, embarquei na aventura de estudar Turismo na Universidade Federal de Pelotas e me formei em 2019. Não atuei na minha aréa de formação, busquei novas oportunidades no mercado financeiro, tanto na parte de análise técnica quanto na codificação de estratégias. Como sempre tive interesse e curiosidade pela área da tecnologia, decidi me jogar de cabeça de um modo mais profissional, começando o curso de Ciência da Computação. Com muito fascínio na aréa de desenvolvimento web, também fiz um curso FullStack.
-Sou nova no mercado de tecnologia, porém busco sempre realizar cursos complementares, participar de bootcamps e implementar projetos sozinha para desenvolver minhas habilidades. Busco novas oportunidades de carreira para demonstrar minhas habilidades e me desenvolver profissionalmente.
-<div align="center"> 
-<div style="display: inline_block"><br>
-<div> 
+<h3 align="left">Conecte-se comigo!</h3>
 
    <a href="https://www.linkedin.com/in/evelimcardozo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://evedc.github.io/evelimdornelles/)
   
 </div>
 
-## Tecnologias que eu utilizo
+<h3 align="left">Tecnologias que eu utilizo</h3>
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Eve-Ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
