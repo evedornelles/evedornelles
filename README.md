@@ -12,7 +12,7 @@
 <h3 align="left">Tecnologias que eu utilizo</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,figma,git,jquery,mysql,react,vscode,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,figma,jquery,mysql,vscode,github,git)](https://skillicons.dev)
 
 
 </div>
