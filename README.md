@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&color=68D2E8&width=435&lines=Ol%C3%A1!+Eu+sou+a+%C3%89velim+Dornelles+%F0%9F%92%9C)](https://git.io/typing-svg)
+## Olá, me chamo Évelim 
  
  Turismóloga formada pela Universidade Federal de Pelotas - UFPel e atualmente estudante do curso de Ciência da Computação. Apaixonada por tecnologia e inovação, procuro sempre expandir meus conhecimentos.
 
