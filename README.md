@@ -1,4 +1,4 @@
-![Évelim Dornelles](./capa.png)
+
 
 
 # <b>[Évelim Dornelles 🡽](https://www.linkedin.com/in/evedornelles/)</b>
