@@ -1,6 +1,11 @@
-## Olá, me chamo Évelim 
- 
- Turismóloga formada pela Universidade Federal de Pelotas - UFPel e atualmente estudante do curso de Ciência da Computação. Apaixonada por tecnologia e inovação, procuro sempre expandir meus conhecimentos.
+![Évelim Dornelles](./capa.png)
+
+
+# <b>[Évelim Dornelles 🡽](https://www.linkedin.com/in/evedornelles/)</b>
+### <b>Desenvolvedora Web Front-end</b> <br> Ciência da Computação
+<br />
+
+  Turismóloga formada pela Universidade Federal de Pelotas - UFPel e atualmente estudante do curso de Ciência da Computação.<br> Apaixonada por tecnologia e inovação, procuro sempre expandir meus conhecimentos.
 
 <h3 align="left">Conecte-se comigo</h3>
 
