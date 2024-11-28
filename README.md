@@ -1,5 +1,3 @@
-![Évelim Dornelles](./img/capaeve.png)
-
 
 # <b>[Évelim Dornelles 🡽](https://www.linkedin.com/in/evedornelles/)</b>
 ### <b>Desenvolvedora Front-end</b> <br> Ciência da Computação
