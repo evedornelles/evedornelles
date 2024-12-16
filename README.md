@@ -1,12 +1,17 @@
+<div align="center">
+  <h1><b><a href="https://www.linkedin.com/in/evedornelles/">Évelim Dornelles 🡽</a></b></h1>
+  <h3><b>Desenvolvedora Front-end</b><br> Ciência da Computação</h3>
 
-# <b>[Évelim Dornelles 🡽](https://www.linkedin.com/in/evedornelles/)</b>
-### <b>Desenvolvedora Front-end</b> <br> Ciência da Computação
-<h3 align="left">🔗 Conecte-se comigo</h3>
- 
-   <a href="https://www.linkedin.com/in/evedornelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://evedornelles.vercel.app/)
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxoaHdkams5eXBkbjZlbHozNWE1MXg0MThqczZzbnpyanZ2bXpmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
 
-   
+  <h3>🔗 Conecte-se comigo</h3>
+
+  <a href="https://www.linkedin.com/in/evedornelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://evedornelles.vercel.app/)
+</div>
+
+___
+
 <h3 align="left">👩‍💻 Sobre mim</h3>
   Turismóloga formada pela Universidade Federal de Pelotas - UFPel e atualmente estudante do curso de Ciência da Computação.<br> Apaixonada por tecnologia e inovação, procuro sempre expandir meus conhecimentos.
 
@@ -17,6 +22,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,figma,jquery,mysql,vscode,github,git)](https://skillicons.dev)
 
 
+
+   
 # 
 
 <div align="center">  
