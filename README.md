@@ -1,5 +1,6 @@
 <div align="center">
-  <h1><b><a href="https://www.linkedin.com/in/evedornelles/">Évelim Dornelles 🡽</a></b></h1>
+<h1><b><a href="https://www.linkedin.com/in/evedornelles/" style="color: #ffdef9; text-decoration: none;">Évelim Dornelles 🡽</a></b></h1>
+
   <h3><b>Desenvolvedora Front-end</b><br> Ciência da Computação</h3>
 
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxoaHdkams5eXBkbjZlbHozNWE1MXg0MThqczZzbnpyanZ2bXpmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
@@ -8,13 +9,16 @@
 
   <a href="https://www.linkedin.com/in/evedornelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://evedornelles.vercel.app/)
-</div>
+  <a href="https://www.instagram.com/heelerstudio/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 
-___
+</div>
+<h1></h1>
+
 
 <h3 align="left">👩‍💻 Sobre mim</h3>
-  Turismóloga formada pela Universidade Federal de Pelotas - UFPel e atualmente estudante do curso de Ciência da Computação.<br> Apaixonada por tecnologia e inovação, procuro sempre expandir meus conhecimentos.
-
+Olá! Boas vindas ao meu perfil do GitHub. Eu sou a Évelim, atualmente estudante de Ciência da Computação, e formada em Turismo pela Universidade Federal de Pelotas. Além disso, tenho uma formação complementar em desenvolvimento FullStack. Sou movida pela curiosidade e sempre busco aprender coisas novas, tanto para o meu crescimento pessoal quanto profissional. A tecnologia sempre me fascinou, e estou constantemente buscando novas formas de expandir meu conhecimento e evoluir como desenvolvedora.
 
 <h3 align="left">🛠️ Tecnologias que eu utilizo</h3>
 
