@@ -1,28 +1,21 @@
 
 # <b>[Évelim Dornelles 🡽](https://www.linkedin.com/in/evedornelles/)</b>
 ### <b>Desenvolvedora Front-end</b> <br> Ciência da Computação
-<br />
-
-  Turismóloga formada pela Universidade Federal de Pelotas - UFPel e atualmente estudante do curso de Ciência da Computação.<br> Apaixonada por tecnologia e inovação, procuro sempre expandir meus conhecimentos.
-
-<h3 align="left">Conecte-se comigo</h3>
-
+<h3 align="left">🔗 Conecte-se comigo</h3>
+ 
    <a href="https://www.linkedin.com/in/evedornelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://evedornelles.vercel.app/)
-  
-</div>
 
-<h3 align="left">Tecnologias que eu utilizo</h3>
+   
+<h3 align="left">👩‍💻 Sobre mim</h3>
+  Turismóloga formada pela Universidade Federal de Pelotas - UFPel e atualmente estudante do curso de Ciência da Computação.<br> Apaixonada por tecnologia e inovação, procuro sempre expandir meus conhecimentos.
+
+
+<h3 align="left">🛠️ Tecnologias que eu utilizo</h3>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,figma,jquery,mysql,vscode,github,git)](https://skillicons.dev)
 
-
-</div>
-
-
-           
-</div>
 
 # 
 
