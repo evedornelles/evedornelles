@@ -3,7 +3,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxoaHdkams5eXBkbjZlbHozNWE1MXg0MThqczZzbnpyanZ2bXpmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
 <div align="left">
 <h2><b>Évelim Dornelles </b></h2>
-
   <h4><b>Desenvolvedora Front-end</b><br> Ciência da Computação</h4>
   <h3>🔗 Conecte-se comigo</h3>
 
