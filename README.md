@@ -1,10 +1,10 @@
+
+
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxoaHdkams5eXBkbjZlbHozNWE1MXg0MThqczZzbnpyanZ2bXpmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
 <div align="left">
 <h2><b>Évelim Dornelles </b></h2>
 
   <h4><b>Desenvolvedora Front-end</b><br> Ciência da Computação</h4>
-
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxoaHdkams5eXBkbjZlbHozNWE1MXg0MThqczZzbnpyanZ2bXpmbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="200"/>
-
   <h3>🔗 Conecte-se comigo</h3>
 
   <a href="https://www.linkedin.com/in/evedornelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -18,7 +18,7 @@
 
 
 <h3 align="left">👩‍💻 Sobre mim</h3>
-Olá! Boas vindas ao meu perfil do GitHub. Eu sou a Évelim, atualmente estudante de Ciência da Computação, e formada em Turismo pela Universidade Federal de Pelotas. Além disso, tenho uma formação complementar em desenvolvimento FullStack. Sou movida pela curiosidade e sempre busco aprender coisas novas, tanto para o meu crescimento pessoal quanto profissional. A tecnologia sempre me fascinou, e estou constantemente buscando novas formas de expandir meu conhecimento e evoluir como desenvolvedora.
+Atualmente sou estudante de Ciência da Computação, e formada em Turismo pela Universidade Federal de Pelotas. Além disso, tenho uma formação complementar em desenvolvimento FullStack. Sou movida pela curiosidade e sempre busco aprender coisas novas, tanto para o meu crescimento pessoal quanto profissional. A tecnologia sempre me fascinou, e estou constantemente buscando novas formas de expandir meu conhecimento e evoluir como desenvolvedora.
 
 <h3 align="left">🛠️ Tecnologias que eu utilizo</h3>
 
