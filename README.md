@@ -1,5 +1,5 @@
 <h4><b>Desenvolvedora Front-end</b><br> Ciência da Computação</h4>
- Atualmente sou estudante de Ciência da Computação, e formada em Turismo pela Universidade Federal de Pelotas. Além disso, tenho uma formação complementar em desenvolvimento FullStack. 
+Estudante de Ciência da Computação com especialização em desenvolvimento FullStack, focada no contínuo aprimoramento de competências técnicas e interpessoais para impulsionar minha atuação na área de tecnologia.
 
 <h3>Tecnologias que eu utilizo</h3>
 
