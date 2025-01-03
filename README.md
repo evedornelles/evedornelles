@@ -4,7 +4,7 @@ Estudante de Ciência da Computação com especialização em desenvolvimento Fu
 <h3>Tecnologias que eu utilizo</h3>
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,figma,jquery,mysql,vscode,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,figma,jquery,mysql,php,py,vscode,github,git)](https://skillicons.dev)
 
 <h3> Conecte-se comigo</h3>
 
