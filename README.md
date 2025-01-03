@@ -16,10 +16,12 @@ Estudante de Ciência da Computação com especialização em desenvolvimento Fu
 
 </div>
 
-<div align="left">  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=evedornelles&show_icons=true&count_private=true&hide_border=true&title_color=8BC3F5&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117"/> 
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=evedornelles&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evedornelles&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+###
 
 
 
