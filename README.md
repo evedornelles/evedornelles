@@ -12,8 +12,6 @@ Me chamo Évelim e atualmente sou estudante de Ciência da Computação com espe
 
 ###
 
-<h3> Conecte-se comigo</h3>
-
 <a href="https://www.linkedin.com/in/evedornelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://evedornelles.vercel.app/)
 <a href="https://www.instagram.com/heelerstudio/" target="_blank">
