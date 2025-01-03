@@ -1,4 +1,5 @@
-<h4><b>Desenvolvedora Front-end</b><br> Ciência da Computação</h4>
+# Hello!! 👋
+
 Estudante de Ciência da Computação com especialização em desenvolvimento FullStack, focada no contínuo aprimoramento de competências técnicas e interpessoais para impulsionar minha atuação na área de tecnologia.
 
 <h3>Tecnologias que eu utilizo</h3>
@@ -15,7 +16,6 @@ Estudante de Ciência da Computação com especialização em desenvolvimento Fu
 </a>
 
 </div>
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=evedornelles&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evedornelles&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
