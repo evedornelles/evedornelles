@@ -1,6 +1,6 @@
-# Hello guys👋
+# Hello guys 🖖
 
-Me chamo Évelim e atualmente sou estudante de Ciência da Computação com especialização em desenvolvimento FullStack, estou focada no contínuo aprimoramento de competências técnicas e interpessoais para impulsionar minha atuação na área de tecnologia.
+Oi, eu sou a Évelim! Sou formada em Turismo e atualmente estudo Ciência da Computação, com especialização em desenvolvimento FullStack. Estou sempre buscando melhorar minhas habilidades técnicas e interpessoais pra crescer na área de tecnologia. 
 
 ###
 
