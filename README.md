@@ -2,15 +2,13 @@
 
 Me chamo Évelim, estudante de Ciência da Computação com especialização em desenvolvimento FullStack. Estou sempre buscando melhorar minhas habilidades técnicas e interpessoais pra crescer na área de tecnologia. 
 
-###
+##
 
 </div>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=evedornelles&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=evedornelles&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
 
 <a href="https://www.linkedin.com/in/evedornelles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://evedornelles.vercel.app/)
