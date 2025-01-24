@@ -1,6 +1,6 @@
 # Hello guys 🖖
 
-Me chamo Évelim, sou formada em Turismo e atualmente estudante de Ciência da Computação, com especialização em Desenvolvimento FullStack. Estou sempre buscando aprimorar minhas habilidades técnicas e interpessoais para crescer tanto na área de tecnologia quanto no meu desenvolvimento pessoal. Dentre as soft skills que mais valorizo estão a autodisciplina, a adaptabilidade e o pensamento crítico.
+Me chamo Évelim, sou formada em Turismo e atualmente estudante de Ciência da Computação com especialização em Desenvolvimento FullStack. Estou sempre buscando aprimorar minhas habilidades técnicas e interpessoais para crescer tanto na área de tecnologia quanto no meu desenvolvimento pessoal. Dentre as soft skills que mais valorizo estão a autodisciplina, a adaptabilidade e o pensamento crítico.
 
 Abaixo, as tecnologias que estou me desenvolvendo e aprimorando 👇
 
