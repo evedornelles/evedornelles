@@ -1,6 +1,6 @@
 # Olá :)
 
-Me chamo Évelim, sou formada em Turismo e atualmente estudante de Ciência da Computação. Estou sempre buscando aprimorar minhas habilidades técnicas e interpessoais para crescer tanto na área de tecnologia quanto no meu desenvolvimento pessoal.
+Me chamo Évelim, sou formada em Turismo e atualmente estudante de Ciência da Computação. Desenvolvendo minhas habilidades técnicas em React, PHP e análise de dados. 
 Dentre as soft skills que mais valorizo estão a autodisciplina, adaptabilidade e o pensamento crítico.
 
 </div>
