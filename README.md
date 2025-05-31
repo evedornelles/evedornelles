@@ -3,6 +3,7 @@
 Me chamo Évelim, sou formada em Turismo e atualmente estudante de Ciência da Computação. Desenvolvendo minhas habilidades técnicas em React, PHP e análise de dados. 
 Dentre as soft skills que mais valorizo estão a autodisciplina, adaptabilidade e o pensamento crítico.
 
+
 </div>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=evedornelles&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
