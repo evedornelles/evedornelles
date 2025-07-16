@@ -1,6 +1,6 @@
 # Olá :)
 
-Me chamo Évelim, sou estudante de Ciência da Computação. Desenvolvendo minhas habilidades técnicas em React, PHP, Node.js e Análise de Dados. 
+Me chamo Évelim, sou estudante de Ciência da Computação e estou desenvolvendo minhas habilidades técnicas em React, PHP, Node.js e Análise de Dados. 
 </div>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=evedornelles&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
