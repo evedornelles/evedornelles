@@ -1,6 +1,6 @@
 # Olá :)
 
-Me chamo Évelim, sou estudante de Ciência da Computação e estou desenvolvendo minhas habilidades técnicas em React, PHP, Node.js e Análise de Dados. 
+Me chamo Évelim, sou estudante de Ciência da Computação e estou desenvolvendo minhas habilidades técnicas em React, Node.js e Análise de Dados. 
 
 
 
