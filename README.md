@@ -2,9 +2,9 @@
 
 Turismóloga em transição para a tecnologia, atualmente graduanda em Ciência da Computação e pós-graduanda em Análise de Dados. Tenho um background sólido em suporte técnico, o que me deu uma visão focada em resolução de problemas e experiência do usuário.
 
-🚀 O que estou estudando agora: React.js e PHP. 
-🛠️ Formação Complementar: Desenvolvimento Full Stack. 
-🎯 Foco: Unir análise estratégica de dados com desenvolvimento web.
+- 🚀 O que estou estudando agora: React.js e PHP.
+- 🛠️ Formação Complementar: Desenvolvimento Full Stack.
+- 🎯 Foco: Unir análise estratégica de dados com desenvolvimento web.
 
 ### 🛠 Tecnologias e Ferramentas
 ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
