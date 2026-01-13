@@ -19,4 +19,4 @@ Com experiência sólida em suporte técnico, trago habilidades em resolução d
 ---
 
 📫 **Como me encontrar:**
-[Seu LinkedIn aqui](https://www.linkedin.com/in/evedornelles/)
+(https://www.linkedin.com/in/evedornelles/)
