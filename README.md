@@ -4,6 +4,7 @@ Turismóloga (UFPel) em transição para a tecnologia, atualmente graduanda em *
 
 Com experiência sólida em suporte técnico, trago habilidades em resolução de problemas, comunicação clara e foco total na satisfação do cliente. Sou organizada, autodisciplinada e apaixonada por aprender.
 
+
 ### 🚀 O que estou explorando agora:
 * 💻 **Desenvolvimento:** Aprofundando em React.js e PHP.
 * 📊 **Dados:** Ciência de Dados e automação com Python.
