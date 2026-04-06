@@ -2,10 +2,6 @@
 
 Turismóloga (UFPel) em transição para a tecnologia, atualmente graduanda em **Ciência da Computação** e pós-graduanda em **Análise de Dados**. 
 
-### 🚀 O que estou explorando agora:
-* 💻 **Desenvolvimento:** Aprofundando em React.js e PHP.
-* 📊 **Dados:** Ciência de Dados e automação com Python.
-* 🗄️ **Banco de Dados:** Estruturação e consultas com MySQL.
 
 ### 🛠 Tecnologias e Ferramentas
 ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
