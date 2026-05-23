@@ -2,7 +2,6 @@
 
 Turismóloga (UFPel) em transição para a tecnologia, atualmente graduanda em **Ciência da Computação** e pós-graduanda em **Análise de Dados**. 
 
-
 ### 🛠 Tecnologias e Ferramentas
 ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
