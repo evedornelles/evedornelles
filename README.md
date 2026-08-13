@@ -1,6 +1,6 @@
 # Olá, eu sou a Évelim Dornelles! 👋
 
-Turismóloga (UFPel) em transição para a tecnologia, atualmente graduanda em **Ciência da Computação** e pós-graduanda em **Análise de Dados**. 
+Atualmente graduanda em **Ciência da Computação** e pós-graduanda em **Análise de Dados**. 
 
 ### 🛠 Tecnologias e Ferramentas
 ![React](https://img.shields.io/badge/react-%2320232b.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
