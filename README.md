@@ -1,14 +1,14 @@
 # Évelim Dornelles
 
 Graduanda em **Ciência da Computação** & Pós-graduada em **Análise de Dados**.  
-Focada em unir interfaces intuitivas no **Front-end** com inteligência e visualização de **Dados**.
+Focada na intersecção entre interfaces modernas (**Front-end**) e inteligência analítica (**Dados & BI**).
 
 ---
 
 ### Tech Stack
 
-- **Front-end:** React, JavaScript, HTML5, CSS3
-- **Dados:** Python, MySQL, Pandas, Visualização de Dados
+- **Front-end & Aplicações:** React, TypeScript, JavaScript, Node.js, HTML5, CSS3
+- **Dados & BI:** SQL, Power BI, DAX, Python (Pandas, NumPy)
 - **Ferramentas:** Git, GitHub, VS Code
 
 ---
