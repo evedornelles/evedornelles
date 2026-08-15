@@ -1,19 +1,18 @@
 # Évelim Dornelles
 
-Graduanda em **Ciência da Computação** & Pós-graduanda em **Análise de Dados**.  
-Focada em desenvolvimento de software, automação e análise de dados.
+Graduanda em **Ciência da Computação** & Pós-graduada em **Análise de Dados**.  
+Focada em unir interfaces intuitivas no **Front-end** com inteligência e visualização de **Dados**.
 
 ---
 
 ### Tech Stack
 
-- **Linguagens & Front-end:** Python, JavaScript, React, HTML/CSS
-- **Dados & Backend:** MySQL, Pandas, NumPy, SQL
+- **Front-end:** React, JavaScript, HTML5, CSS3
+- **Dados:** Python, MySQL, Pandas, Visualização de Dados
 - **Ferramentas:** Git, GitHub, VS Code
 
 ---
 
 ### Contato
 
-- **LinkedIn:** [/in/evedornelles](https://www.linkedin.com/in/evedornelles/)
-- **Email:** seu-email@exemplo.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evedornelles/)
