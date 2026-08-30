@@ -1,6 +1,6 @@
 # Évelim Dornelles
 
-Graduanda em **Ciência da Computação** & Pós-graduada em **Análise de Dados**.  
+Graduanda em **Ciência da Computação** e Pós-graduada em **Análise de Dados**.  
 Focada na intersecção entre interfaces modernas (**Front-end**) e inteligência analítica (**Dados & BI**).
 
 ---
