@@ -7,8 +7,8 @@ Focada na intersecção entre interfaces modernas (**Front-end**) e inteligênci
 
 ### Tech Stack
 
-- **Front-end & Aplicações:** React, TypeScript, JavaScript, Node.js, HTML5, CSS3
-- **Dados & BI:** SQL, Power BI, DAX, Python (Pandas, NumPy)
+- **Front-end e Aplicações:** React, TypeScript, JavaScript, Node.js, HTML5, CSS3
+- **Dados e BI:** SQL, Power BI, DAX, Python (Pandas, NumPy)
 - **Ferramentas:** Git, GitHub, VS Code
 
 ---
