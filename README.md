@@ -10,7 +10,6 @@ Focada na intersecção entre interfaces modernas e inteligência analítica (**
 - **Front-end e Aplicações:** React, TypeScript, JavaScript, Node.js, HTML5, CSS3
 - **Dados e BI:** SQL, Power BI, DAX, Python (Pandas, NumPy)
 - **Ferramentas:** Git, GitHub, VS Code
-
 ---
 
 ### Contato
